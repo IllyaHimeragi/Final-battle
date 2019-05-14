@@ -1,6 +1,6 @@
 $(function(){
 $('.btn-dark').click(function(event) {  
-  $('#Sakura').toggle();
+  $('#Sakuya').toggle();
   });
 $('.btn-danger').click(function(event) {  
   $('#Illya').slideToggle();
