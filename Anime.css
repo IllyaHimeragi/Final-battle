@@ -6,8 +6,18 @@
 }
 .dispear{
 	font-size: 45px;
+	font-style: verdana;
 }
 .time{
 	font-size: 30px;
 	color: black;
+	font-style: verdana;
 }
+.lilina{
+	background-color: #336699;
+	font-style: verdana;
+}
+.chan{
+	font-family: Verdana;
+	margin: 5px;
+	color: darkblue;
