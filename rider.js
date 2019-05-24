@@ -3,16 +3,16 @@ $('.btn-dark').click(function(event) {
   $('#Sakuya').toggle();
   });
 $('.btn-danger').click(function(event) {  
-  $('#Illya').slideToggle();
+  $('#Illya').slidetoggle();
   });
 $('.btn-info').click(function(event) {  
-  $('#Rin').hide(100).show(100);
+  $('#Rin').hide(10).show(10);
   });
 $('.btn-light').click(function(event) {  
   $('#Tamamo').toggleClass('chan');
   });
 $('.btn-success').click(function(event) {  
-  $('#Medusa').html('Watashi wa yamidesu');
+  $('#Medusa').html('Code of hours');
   });
 
 });
